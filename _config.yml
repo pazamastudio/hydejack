@@ -54,7 +54,7 @@ menu:
   - title:             Life in Japan
     url:               /Life_in_Japan/
   - title:             About
-    url:               /aboutme/
+    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
