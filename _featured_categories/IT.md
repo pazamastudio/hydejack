@@ -1,7 +1,7 @@
 ---
 layout: list
 title: IT
-slug: IT
+slug: it
 menu: true
 order: 2
 description: >
