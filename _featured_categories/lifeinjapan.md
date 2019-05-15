@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Life in Japan
-slug: Life_in_Japan
+slug: lifeinjapan
 menu: true
 order: 2
 description: >
