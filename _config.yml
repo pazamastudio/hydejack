@@ -137,8 +137,6 @@ defaults:
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
 disqus:                pazamastudio-1
-disqus_url: https://pazamastudio.disqus.com
-disqus_id: jeonghoonshin
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
