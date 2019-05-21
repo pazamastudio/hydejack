@@ -5,9 +5,9 @@ layout: post
 ## 엘라스틱서치[Elastic Search] - 설치와 실행
 
 엘라스틱서치를 사용하기 위해서는 최신 버전의 JAVA가 필요하다.
-엘라스틱서치를 설치하기 전에 JAVA공식 사이트 ([www.java.com](http://)) 에서 최신 버전의 자바를 다운로드하여 설치하도록 하자.
+엘라스틱서치를 설치하기 전에 JAVA공식 사이트 ([www.java.com](https://www.java.com)) 에서 최신 버전의 자바를 다운로드하여 설치하도록 하자.
 
-[elasticsearch.org/download](http://) 에서 최신 버전의 엘라스틱서치를 다운받을 수 있다.
+[elastic.co/kr/downloads](https://www.elastic.co/kr/downloads/) 에서 최신 버전의 엘라스틱서치를 다운받을 수 있다.
 
 ```
 curl -L -O http://download.elasticsearch.org/PATH/TO/VERSION.zip
