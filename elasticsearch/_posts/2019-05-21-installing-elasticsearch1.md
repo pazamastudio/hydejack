@@ -9,12 +9,23 @@ layout: post
 
 [elastic.co/kr/downloads](https://www.elastic.co/kr/downloads/) 에서 최신 버전의 엘라스틱서치를 다운받을 수 있다.
 
+#### Linux
 ```
-curl -L -O http://download.elasticsearch.org/PATH/TO/VERSION.zip
-unzip relimentsearch-$VERSION.zip
-cd relimentsearch-$VERSION
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.7.0.tar.gz
+
+tar xvfz elasticsearch-6.7.0.tar.gz
 ```
-엘라스틱서치는 위에 나온 코드를 입력하여 설치하거나, 다운로드 페이지에서 제공되는 Debian 또는 RPM패키지를 이용해 설치할 수 있다.
+
+#### Windows
+```
+C:> unzip elasticsearch-6.7.0.zip
+Archive:  elasticsearch-6.7.0.zip
+creating: elasticsearch-6.7.0/lib/
+inflating: elasticsearch-6.7.0/lib/elasticsearch-6.7.0.jar
+inflating: elasticsearch-6.7.0/lib/elasticsearch-x-content-6.6.2.jar
+```
+
+엘라스틱서치는 위의 명령으로 설치하거나, 다운로드 페이지에서 제공되는 Debian 또는 RPM패키지를 이용해 설치할 수 있다.
 
 ## 마블 설치 [Installing Marvel]
 
