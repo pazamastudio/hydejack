@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## 엘라스틱서치[Elastic Search] - 설치와 실행 #1
+## 엘라스틱서치[Elastic Search] - 설치와 실행
 
 엘라스틱서치를 사용하기 위해서는 JAVA가 필요하다.
 JAVA공식 사이트 ([www.java.com](http://)) 에서 최신 버전의 자바를 다운로드하여 설치하자.
