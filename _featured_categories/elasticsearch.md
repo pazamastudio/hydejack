@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Elastic Search
-slug: lifeinjapan
+slug: elasticsearch
 menu: true
 order: 2
 description: >
