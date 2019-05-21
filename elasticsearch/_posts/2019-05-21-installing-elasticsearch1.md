@@ -38,7 +38,7 @@ cd relimentsearch-$VERSION
 echo 'marvel.agent.enabled: false' >> ./config/elasticsearch.yml
 ```
 
-###엘라스틱서치 실행하기 [Running Elastic Search]
+### 엘라스틱서치 실행하기 [Running Elastic Search]
 
 위의 설치를 모두 완료하였다면 이제 foreground에서 다음 명령으로 엘라스틱서치를 실행할 수 있다.
 
